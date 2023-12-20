@@ -1,0 +1,27 @@
+body{
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+}
+.genel{
+
+    width: 100vw;
+   height: 100vh;
+   display: flex;
+   justify-content: space-evenly;
+   background: rgb(51, 63, 85);
+}
+.haftalar{
+ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.btn:hover{
+    background: rgb(40, 87, 181);
+    transition: 0s;
+}
+
+
